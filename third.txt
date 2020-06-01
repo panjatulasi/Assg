@@ -1,1 +1,0 @@
-Create a function validateUser () with three parameters username, password and one callback function as arguments to validate the user credentials. validateUser() calls the callback function by passing either true or false based on user credentials. The definition of callback function is to display proper message based on the result given by validateUser().
